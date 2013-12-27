@@ -1,4 +1,4 @@
-﻿namespace Caldera
+﻿namespace Caldera.EntryPoint
 {
    internal static class Program
    {

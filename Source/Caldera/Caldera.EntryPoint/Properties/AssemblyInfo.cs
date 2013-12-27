@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle( "Caldera" )]
+[assembly: AssemblyTitle( "Caldera.EntryPoint" )]
 [assembly: AssemblyDescription( "" )]
 [assembly: AssemblyConfiguration( "" )]
 [assembly: AssemblyCompany( "" )]
-[assembly: AssemblyProduct( "Caldera" )]
+[assembly: AssemblyProduct( "Caldera.EntryPoint" )]
 [assembly: AssemblyCopyright( "Copyright ©  2013" )]
 [assembly: AssemblyTrademark( "" )]
 [assembly: AssemblyCulture( "" )]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible( false )]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid( "f10ed326-9371-4052-ba4a-023f584e6085" )]
+[assembly: Guid( "497ef30c-d077-49a4-bcf3-ab15437633df" )]
 
 // Version information for an assembly consists of the following four values:
 //
