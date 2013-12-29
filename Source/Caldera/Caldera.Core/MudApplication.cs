@@ -4,6 +4,8 @@
    {
       public void Run( string[] arguments )
       {
+         var clientSubsystem = new ClientSubsystem();
+         clientSubsystem.Start();
       }
    }
 }
